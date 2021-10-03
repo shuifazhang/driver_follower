@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/opt/ros/melodic/include/**",
+                "/home/zcyy/workspace/tf_ws1.1/src/tf_follower/include/**",
+                "/usr/include/**",
+                "${workspaceFolder}/devel/include"
+            ],
+            "name": "ROS"
+        }
+    ],
+    "version": 4
+}

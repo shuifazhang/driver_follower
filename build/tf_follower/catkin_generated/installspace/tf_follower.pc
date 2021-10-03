@@ -1,0 +1,8 @@
+prefix=/home/zcyy/workspace/tf_ws1.1/install
+
+Name: tf_follower
+Description: Description of tf_follower
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: geometry_msgs nav_msgs roscpp rospy sensor_msgs std_msgs tf message_runtime
